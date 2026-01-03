@@ -3,16 +3,8 @@
 
 <p>
 I'm Nazanin Foroutan, a Computer Engineering student with a strong passion for programming, problem-solving, and intelligent systems. 
-My current focus is on <b>Machine Learning</b> and <b>Artificial Intelligence</b> — especially <b>fuzzy systems</b> — along with 
+My current focus is on <b>Machine Learning</b> and <b>Artificial Intelligence</b> - especially <b>fuzzy systems</b> - along with 
 <b>robotics</b> and <b>algorithm design</b>.  
 I enjoy building practical, real-world projects, exploring smart decision-making systems, and continuously learning new technologies 
 while collaborating with others in the tech community.
 </p>
-
-<h3 align="left">Current Focus Areas:</h3>
-<ul>
-  <li>🤖 Robotics and intelligent control systems</li>
-  <li>🧠 Machine Learning & Artificial Intelligence</li>
-  <li>📐 Fuzzy Logic and decision-making systems</li>
-  <li>⚙️ Algorithms and problem-solving</li>
-</ul>
